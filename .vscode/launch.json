@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ContosoPizza/bin/Debug/net7.0/ContosoPizza.dll",
+            "program": "${workspaceFolder}/ContosoPizza/bin/Debug/net10.0/ContosoPizza.dll",
             "args": [],
             "cwd": "${workspaceFolder}/ContosoPizza",
             "stopAtEntry": false,
